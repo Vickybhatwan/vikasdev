@@ -7,7 +7,7 @@ const meta = {
 const introdata = {
     title: "I’m Vikas Bhatwan ",
     animated: {
-        first: "I love coding",
+        first: "Sleeping Day & Coding Night✌🏻",
         second: "I code cool websites",
         third: "I develop Api's",
     },
