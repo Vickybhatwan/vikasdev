@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vikasdev/static/css/main.1fb4fd04.css",
-    "main.js": "/vikasdev/static/js/main.6572b655.js",
+    "main.js": "/vikasdev/static/js/main.54f70714.js",
     "index.html": "/vikasdev/index.html",
     "main.1fb4fd04.css.map": "/vikasdev/static/css/main.1fb4fd04.css.map",
-    "main.6572b655.js.map": "/vikasdev/static/js/main.6572b655.js.map"
+    "main.54f70714.js.map": "/vikasdev/static/js/main.54f70714.js.map"
   },
   "entrypoints": [
     "static/css/main.1fb4fd04.css",
-    "static/js/main.6572b655.js"
+    "static/js/main.54f70714.js"
   ]
 }
