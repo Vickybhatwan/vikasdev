@@ -1,7 +1,7 @@
 const logotext = "Vikas Bhatwan";
 const meta = {
     title: "Vikas Bhatwan ",
-    description: "I’m Vikas Bhatwan  data scientist _ Full stack devloper,currently working in Berlin",
+    description: "I’m Vikas Bhatwan Full stack devloper,currently working in Gururgram",
 };
 
 const introdata = {
@@ -11,7 +11,7 @@ const introdata = {
         second: "I code cool websites",
         third: "I develop Api's",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "VIKAS DIS",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -37,11 +37,11 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
+        name: "C#",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "SQl",
         value: 85,
     },
     {
@@ -49,11 +49,19 @@ const skills = [{
         value: 80,
     },
     {
-        name: "React",
-        value: 60,
+        name: ".NET",
+        value: 80,
     },
     {
         name: "Jquery",
+        value: 85,
+    },
+    {
+        name: "CSS",
+        value: 85,
+    },
+    {
+        name: "HTML",
         value: 85,
     },
 ];
