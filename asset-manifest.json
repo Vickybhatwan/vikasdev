@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vikasdev/static/css/main.00cd8789.css",
+    "main.js": "/vikasdev/static/js/main.65fd7450.js",
+    "static/js/453.39e2999c.chunk.js": "/vikasdev/static/js/453.39e2999c.chunk.js",
+    "index.html": "/vikasdev/index.html",
+    "main.00cd8789.css.map": "/vikasdev/static/css/main.00cd8789.css.map",
+    "main.65fd7450.js.map": "/vikasdev/static/js/main.65fd7450.js.map",
+    "453.39e2999c.chunk.js.map": "/vikasdev/static/js/453.39e2999c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00cd8789.css",
+    "static/js/main.65fd7450.js"
+  ]
+}
