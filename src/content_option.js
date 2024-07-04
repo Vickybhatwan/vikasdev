@@ -1,3 +1,5 @@
+import backImage from './assets/images/pexels-olha-ruskykh-7504824.jpg'
+
 const logotext = "Vikas Bhatwan";
 const meta = {
     title: "Vikas Bhatwan ",
@@ -7,12 +9,12 @@ const meta = {
 const introdata = {
     title: "I’m Vikas Bhatwan ",
     animated: {
-        first: "Sleeping Day & Coding Night✌🏻",
+        first: "Sleeping Day & Coding Night",
         second: "I code cool websites",
         third: "I develop Api's",
     },
     description: "VIKAS DIS",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: backImage,
 };
 
 const dataabout = {
