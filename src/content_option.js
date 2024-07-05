@@ -13,7 +13,7 @@ const introdata = {
         second: "I code cool websites",
         third: "I develop Api's",
     },
-    description: "VIKAS DIS",
+    description: "VIKAS description",
     your_img_url: backImage,
 };
 
@@ -146,9 +146,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "VikasBhatwan01@gmail.com",
+    YOUR_FONE: "+918630460849",
+    description: "",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -159,7 +159,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/vikas-bhatwan-2043bb234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
     twitter: "https://twitter.com",
 };
 export {
